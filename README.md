@@ -2,7 +2,7 @@
 
 🔭 Currently working as a Reporting Analyst at Hp,Bangalore
 
-👯 Good at Data Analytics Part
+👯 Good at SQL | PYTHON | POWER BI | MACHINE LEARNING | DEEP LEARNING | NLP | PYSPARK
 
 👨‍💻 All of my projects are available at : https://github.com/HariPrakash1996
 
