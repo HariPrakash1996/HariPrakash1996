@@ -1,6 +1,6 @@
 ### Hi I'm HARI PRAKASH ! 👋
 
-🔭 Currently working as a Reporting Analyst at Hp,Bangalore
+🔭 Currently working as a Data Analyst,Bangalore
 
 👯 Good at SQL | PYTHON | POWER BI | MACHINE LEARNING | DEEP LEARNING | NLP | PYSPARK
 
